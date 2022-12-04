@@ -1,4 +1,4 @@
-# # Advent of Code 2022
+# Advent of Code 2022
 
 [Advent of code web page (calendar)](https://adventofcode.com/2022)
 
