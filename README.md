@@ -6,7 +6,7 @@
 [Day 3: Binary Diagnostic](day_03.ipynb)<br>
 [Day 4: Camp Cleanup](day%2004.ipynb)<br>
 [Day 5: Supply Stacks](day%2005.ipynb)<br>
-[Day 6: Turning Trouble](day%2007.ipynb)<br>
+[Day 6: Turning Trouble](day%2006.ipynb)<br>
 [Day 7: ???](day%2007.ipynb)<br>
 [Day 8: ???](day%2008.ipynb)<br>
 [Day 9: ???](day%2009.ipynb)<br>
